@@ -1,6 +1,12 @@
 rtasm
 =====
 
+
+_**Update (2023)**: This is obviously old but since I get emails about it every now and then, I am keeping it in place.
+If you are looking for documentation, it's in the [RTASM.cbi](./RTASM.cbi) file._
+
+---
+
 Runtime Assembler for C++
 
 This library allows you to generate highly efficient code by assembling it runtime. It consists of an approxmiation of x86 assembly language which generated the corresponding IA32 instructions.
